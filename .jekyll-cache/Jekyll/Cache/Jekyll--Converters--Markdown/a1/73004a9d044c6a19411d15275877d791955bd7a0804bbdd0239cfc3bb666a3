@@ -1,0 +1,18 @@
+I"l<blockquote>
+  <p>手势在用户交互中有着举足轻重的作用，这篇文字简单的介绍了iOS中的手势，并通过手势对控件进行变形处理。</p>
+</blockquote>
+
+<h1 id="手势">手势</h1>
+
+<p>iOS手势分为下面这几种：</p>
+
+<ul>
+  <li>UITapGestureRecognizer（点按）</li>
+  <li>UIPanGestureRecognizer（拖动）</li>
+  <li>UIScreenEdgePanGestureRecognizer (边缘拖动)</li>
+  <li>UIPinchGestureRecognizer（捏合）</li>
+  <li>UIRotationGestureRecognizer（旋转）</li>
+  <li>UILongPressGestureRecognizer（长按）</li>
+  <li>​UISwipeGestureRecognizer（轻扫）</li>
+</ul>
+:ET
